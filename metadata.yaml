@@ -1,0 +1,24 @@
+_repo: From-Dixie-to-Canada-Romances-and-Realities-of-the-Underground-Railroad_62165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, H. U. (Homer Uri)
+    alias: Johnson, Homer Uri
+    gutenberg_agent_id: '51803'
+    url: http://www.gutenberg.org/2009/agents/51803
+description: ''
+gutenberg_issued: '2020-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitive slaves -- United States'
+- !lcsh 'Underground Railroad'
+- !lcc 'E300'
+- GITenberg
+title: 'From Dixie to Canada: Romances and Realities of the Underground Railroad'
+url: http://www.gutenberg.org/ebooks/62165
